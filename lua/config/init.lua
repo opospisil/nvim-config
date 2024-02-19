@@ -22,9 +22,6 @@ local opts = {
 	defaults = {
 		lazy = true,
 	},
-	install = {
-		colorscheme = { "catppuccin" },
-	},
 	rtp = {
 		disabled_plugins = {
 			"gzip",

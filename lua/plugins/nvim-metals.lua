@@ -11,6 +11,7 @@ return {
     -- Example of settings
     metals_config.settings = {
       showImplicitArguments = true,
+      enableSemanticHighlighting = false,
       excludedPackages = { "akka.actor.typed.javadsl", "com.github.swagger.akka.javadsl" },
     }
 
